@@ -1,0 +1,52 @@
+
+/* HOMEPAGE */
+ 
+.HomeNav li {
+	border-bottom: solid 1px #D9D9CE;
+	border-top: solid 1px #D9D9CE;
+	}
+ 
+.HomeNav a:link,.HomeNav a:active,.HomeNav a:visited {
+	 color: #630016;
+	}
+ 
+.HomeNav a:hover {
+	color: #8C001E;
+	}
+ 
+/* GLOBAL */
+
+a:link {
+	color: #630016;
+	}
+ 
+a:hover, .LinkList li a:hover, dl.Feature a:hover, ul.FeatureButton a:hover, div.LinkListButton a:hover, .NavLinks a:hover, #LocalNav a:hover, div.NewsLinkList dl dd a:hover, div.MoreInfoLink a:hover, span.MoreInfoLink a:hover, div#OnTheWeb a:hover {
+	color: #8C001E;
+	border-bottom-color: #8C001E;
+	}
+ 
+h3.Shaded, .Shaded {
+	background-color: #4a0010;
+	}
+  
+div.LinkList li a, div.NewsLinkList dl dd a, div#OnTheWeb div a {
+	border-bottom: 1px solid #E5E4DA;
+	border-bottom: 1px solid #d9d7ce;
+	}
+ 
+  
+.LinkButton a {
+	color: #96968D;
+	}
+ 
+#LocalNav a {
+	color: #4a0010;
+	}
+ 
+#Masthead {	
+	background-color: #4a0010; 
+	}
+ 
+#Promo img {
+	border: solid #b3b3aa 1px;
+	}
